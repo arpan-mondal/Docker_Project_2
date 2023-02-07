@@ -6,7 +6,7 @@
 
 ### Company information 
 
-&lt;!--- Use this section to share information about your company such as founding information, mission statement, product description, product success, etc.--->
+&lt;!---We are MegaVerse, Introducing 20000 NFTs for crowdfunding for Mining for Bitcoin and Ethereum using Renewable energy and Generating Monthy Pay-Back-Revenue to our Croudfunding Investor, etc.--->
 
 ### Why participate in an Octernship with MegaVerse
 
@@ -14,11 +14,11 @@
 
 ### Octernship role description
 
-&lt;!--- Use this section to describe the role in as much detail as necessary. Please include the GitHub Classroom assignment submission date, length of the Octernship, and the monthly stipend --->
+&lt;!--- Here you have to create a Docker File for a Flask Application --->
 
 ### Recommended qualifications
 
-&lt;!--- Use this section to describe what skills a student might need to complete the problem statement on GitHub Classroom --->
+&lt;!--- You need to know about Docker and Kubernetes --->
 
 ### Eligibility
 
@@ -36,17 +36,17 @@ To participate, you must be:
 
 ### Task instructions
 
-&lt;!--- Use this section to describe the project that students are required to complete. We ask that you also include instructions on running and preparing the students' local environment if necessary. --->
+&lt;!--- We will help you through out the process we will host a meeting and talk about the project details --->
 
 ### Task Expectations
 
-&lt;!--- Please add expectations that students need to follow to be considered. Some examples include: completing the project on their own, not using code from external resources without comprehending the logic, etc.  --->
+&lt;!---  completing the project on their own, not using code from external resources without comprehending the logic, etc.  --->
 
 ### Task submission
 
 Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow) when working on their project. 
 
-1. Using [GitHub Classroom](https://classroom.github.com/) to make submissions
+1. Using [GitHub Classroom](https://classroom.github.com/a/uQXjw90A) to make submissions
 
 2. Opening a Pull Request for review
 
@@ -54,4 +54,4 @@ Students are expected to use the [GitHub Flow](https://docs.github.com/en/get-st
 
 ### Resources
 
-&lt;!--- Use this section to add resources for students to refer to. For example Documentation, Tutorials, Guides, and more.  --->
+&lt;!--- Documentation, Tutorials, Guides, and more. Contact accesstoarpan@gmail.com  --->
